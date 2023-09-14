@@ -23,5 +23,5 @@ Here's a brief description of terms used in the Image Compression with K-Means C
 
         8- GUI - Graphical user interface.
 
-9- Centroid - The average or arithmetic mean of all the points of an object.
+        9- Centroid - The average or arithmetic mean of all the points of an object.
 ![image](https://github.com/AUBAI-ALKHABBAZ/Image_Compression_with_K-Means_Clustering/assets/102236043/911700d0-bec0-4298-af9e-74f480c671c2)
